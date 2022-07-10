@@ -16,20 +16,15 @@ More generally, the aim is to help potential project creators as well as potenti
 **Language used:** Python
 
 **Tools:**  
-<span style="color:grey">Numpy:</span> matrix operations  
 <span style="color:grey">Pandas:</span> data handling  
-<span style="color:grey">Matplotlib:</span> data handling  
-<span style="color:grey">Seaborn:</span> data handling  
+<span style="color:grey">Matplotlib:</span> data visualization  
+<span style="color:grey">Seaborn:</span> data visualization  
 <span style="color:grey">Scikit-learn:</span> machine learning model predictions
 
 
-View the final presentation for this project here.
+**Slides:** View the [final presentation](https://github.com/suleenwong/ML_Project_Kickstarter_Success/blob/main/Kickstarter_Project_Slides.pdf)
+ for this project here.
 
-<br>  
 
-
-Here's a preview of the code:   
-
-```python
-
-```
+**Repository:** View the [repo](https://github.com/suleenwong/ML_Project_Kickstarter_Success/)
+ for this project here.
