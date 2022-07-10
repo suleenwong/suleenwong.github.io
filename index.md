@@ -10,8 +10,8 @@
 
 ---
 
-[**Predicting Diabetes with machine learning**](/pages/kickstarter)  
-[<img style="padding-top: 10px" src="/assets/images/optimization-dashboard.png?raw=true"/>](/pages/kickstarter)
+[**Diabetes challenge: Predicting Diabetes with machine learning**](/pages/diabetes)  
+[<img style="padding-top: 10px" src="/assets/images/optimization-dashboard.png?raw=true"/>](/pages/diabetes)
   
 <br>
 
