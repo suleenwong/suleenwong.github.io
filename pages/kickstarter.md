@@ -1,7 +1,7 @@
 <span style="font-weight: bold; color: black; font-size:180%; line-height: 32px;"> Predicting Kickstarter project success using machine learning  </span>  <br>
 <span style="color:darkgrey;">June 2022 &nbsp;&ndash;&nbsp; Su Leen Wong</span>
 
-**Authors:** Su Leen Wong and Erick Cantu
+**Authors:** [Su Leen Wong](https://suleenwong.github.io/) and [Erick Cantu](https://github.com/eaunaicr97/)
 
 
 **Overview:**  
@@ -19,7 +19,7 @@ More generally, the aim is to help potential project creators as well as potenti
 <span style="color:grey">Pandas:</span> data handling  
 <span style="color:grey">Matplotlib:</span> data visualization  
 <span style="color:grey">Seaborn:</span> data visualization  
-<span style="color:grey">Scikit-learn:</span> machine learning model predictions
+<span style="color:grey">Scikit-learn:</span> machine learning model
 
 
 **Slides:** View the [final presentation](https://github.com/suleenwong/ML_Project_Kickstarter_Success/blob/main/Kickstarter_Project_Slides.pdf)
