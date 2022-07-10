@@ -2,7 +2,10 @@
 <span style="color:darkgrey;">June 2022 &nbsp;&ndash;&nbsp; Su Leen Wong</span>
 
 **Overview:**  
-The goal of this project is to predict using machine learning models whether a patient has diabetes or not. The dataset is the Pima Indians Diabetes Database.
+The goal of this project is to predict using machine learning whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. 
+
+The dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
+
 
 **Language used:** Python
 

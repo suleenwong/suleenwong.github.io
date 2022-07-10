@@ -16,8 +16,8 @@
 <br>
 
 ---
-[**Exploratory Data Analysis on housing data**](/pages/kickstarter)      
-[<img style="padding-top: 10px" src="/assets/images/video-games-dashboard.png?raw=true"/>](/pages/kickstarter)
+[**Exploratory Data Analysis on housing data**](/pages/eda_housingdata)      
+[<img style="padding-top: 10px" src="/assets/images/eda-housing-cover.png?raw=true"/>](/pages/eda_housingdata)
   
 <br>
 
