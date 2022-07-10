@@ -1,0 +1,71 @@
+<!--preloader styles-->
+<style>
+    #preload-overlay {
+        text-align: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #fcfcfc;
+    }
+
+    #spinner {
+        width: 40px;
+        height: 40px;
+        position: absolute;
+        top: 48%;
+        left: 48%;
+        background-color: #333333;
+
+        border-radius: 100%;
+        -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
+        animation: sk-scaleout 1.0s infinite ease-in-out;
+    }
+
+    @-webkit-keyframes sk-scaleout {
+        0% {
+            -webkit-transform: scale(0)
+        }
+        100% {
+            -webkit-transform: scale(1.0);
+            opacity: 0;
+        }
+    }
+
+    @keyframes sk-scaleout {
+        0% {
+            -webkit-transform: scale(0);
+            transform: scale(0);
+        }
+        100% {
+            -webkit-transform: scale(1.0);
+            transform: scale(1.0);
+            opacity: 0;
+        }
+    }
+</style>
+
+
+
+<!-- preloader -->
+<div id="preload-overlay" style="z-index: 100;">
+    <div id="spinner"></div>
+</div>
+
+
+<!--preloader fade-->
+<script>
+    jQuery(window).load(function () {
+        preloaderFadeOutTime = 500;
+
+        function hidePreloader() {
+            var wrapper = $('.spinner-wrapper');
+            var spinner = $('.spinner');
+            wrapper.fadeOut(preloaderFadeOutTime);
+            spinner.fadeOut(preloaderFadeOutTime);
+        }
+
+        hidePreloader();
+    });
+</script>

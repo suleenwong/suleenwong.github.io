@@ -1,0 +1,20 @@
+#bio {
+    position: absolute;
+    background: #f6f8fa;
+    z-index: initial;
+}
+
+#bio-background {
+    position: absolute;
+    background-color: #f6f8fa;
+    width: 200%;
+    height: 200%;
+    z-index: -1;
+    top: -50%;
+    left: -50%
+}
+
+#bio-wrapper {
+    position: relative;
+    z-index: 10;
+}
