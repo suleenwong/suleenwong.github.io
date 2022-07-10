@@ -1,6 +1,7 @@
 <span style="font-weight: bold; color: black; font-size:180%; line-height: 32px;"> Diabetes challenge: predicting diabetes using machine learning  </span>  <br>
 <span style="color:darkgrey;">June 2022 &nbsp;&ndash;&nbsp; Su Leen Wong</span>
 
+
 **Overview:**  
 The goal of this project is to predict using machine learning whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. 
 
@@ -19,3 +20,6 @@ The dataset is originally from the National Institute of Diabetes and Digestive 
 
 **Repository:** View the [repo](https://github.com/suleenwong/Diabetes_Challenge)
  for this project here.
+
+**Preview of the data:**
+![](/assets/images/diabetes-cover.png)

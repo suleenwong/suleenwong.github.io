@@ -3,6 +3,7 @@
 
 **Authors:** [Su Leen Wong](https://suleenwong.github.io/) and [Erick Cantu](https://github.com/eaunaicr97/)
 
+![](/assets/images/kickstarter-cover.png)
 
 **Overview:**  
 Kickstarter, founded in 2009, is a crowdfunding platform where project creators can raise money from the public, circumventing traditional avenues of investment. It has an all-or-nothing funding model, whereby a project is only funded if it meets its goal amount; otherwise no money is given by backers to a project.
