@@ -4,7 +4,7 @@
 
 
 [**Predicting Kickstarter project success using machine learning**](/pages/kickstarter)  
-[<img style="padding-top: 10px" src="/assets/images/diabetes-cover.png?raw=true"/>](/pages/kickstarter)
+[<img style="padding-top: 10px" src="/assets/images/kickstarter-cover.png?raw=true"/>](/pages/kickstarter)
 
 <br>
 
