@@ -1,30 +1,28 @@
-<span style="font-weight: bold; color: black; font-size:180%; line-height: 32px;"> Predicting Kickstarter project success using machine learning  </span>  <br>
+<span style="font-weight: bold; color: black; font-size:180%; line-height: 32px;"> Exploratory Data Analysis on housing prices  </span>  <br>
 <span style="color:darkgrey;">June 2022 &nbsp;&ndash;&nbsp; Su Leen Wong</span>
 
-**Authors:** [Su Leen Wong](https://suleenwong.github.io/) and [Erick Cantu](https://github.com/eaunaicr97/)
-
+![](/assets/images/eda-housing-cover.png)
 
 **Overview:**  
-Kickstarter, founded in 2009, is a crowdfunding platform where project creators can raise money from the public, circumventing traditional avenues of investment. It has an all-or-nothing funding model, whereby a project is only funded if it meets its goal amount; otherwise no money is given by backers to a project.
+The goal in this project was to conduct Exploratory Data Analysis on the King County housing data set and to come up with a few potential homes in King County, Washingston that fit the requirements of an imaginary stakeholder, Zachary Brooks. 
 
-A huge variety of factors contribute to the success or failure of a project on Kickstarter. Some of these factors are able to be quantified or categorized, which allows machine learning models to predict whether a project will succeed or not.
+Zachary Brooks invests in historical homes in the best neighborhoods, seeking to make high profits within a time frame of a year. He wants to know if the houses he purchases should be renovated to increase his final resale price.
 
-The goal of this project is to predict if a Kickstart project will succeed or fail through using Exploratory Data Analysis and supervised Machine Learning models.
-
-More generally, the aim is to help potential project creators as well as potential investors assess what their chances of success on Kickstarter will be.
 
 **Language used:** Python
+
 
 **Tools:**  
 <span style="color:grey">Pandas:</span> data handling  
 <span style="color:grey">Matplotlib:</span> data visualization  
 <span style="color:grey">Seaborn:</span> data visualization  
-<span style="color:grey">Scikit-learn:</span> machine learning model
+<span style="color:grey">Plotly:</span> geographic data visualization  
 
 
-**Slides:** View the [final presentation](https://github.com/suleenwong/ML_Project_Kickstarter_Success/blob/main/Kickstarter_Project_Slides.pdf)
+**Slides:** View the [final presentation](https://github.com/suleenwong/EDA_Project/blob/main/EDA_Project_Slides.pdf)
  for this project here.
 
 
-**Repository:** View the [repo](https://github.com/suleenwong/ML_Project_Kickstarter_Success/)
+**Repository:** View the [repo](https://github.com/suleenwong/EDA_Project)
  for this project here.
+
