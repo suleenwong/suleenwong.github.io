@@ -1,4 +1,4 @@
-## Viv's DS portfolio page
+## Su's DS portfolio page
 Portfolio hosted on github pages I made to display some of my projects and code.
 
 ### Intro
@@ -6,7 +6,7 @@ Feel free to use this as a template, and feel free to give me a shout if you run
 
 
 ### Template usage info.   
->vivienneprince.github.io    
+>suleenwong.github.io    
 >>**index.md** project summary for launchpage (markdown format)  
 >>**\_config.yml** metadata/ customizable variables that gets used in HTML source code  
 >>  
